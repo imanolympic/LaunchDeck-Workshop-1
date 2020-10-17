@@ -5,7 +5,8 @@ calculate the tip amount.
 
 Here's a walkthrough of the implemented feautures:
 
-![App Image#1](../TipPal.png)
+<img src='https://media.giphy.com/media/sSyORdMoWsJKxfVLwE/giphy.gif'  title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## App Feautures Summary
 - Calculates the tip amount after users enter in a bill amount and tip
   percentage. 
